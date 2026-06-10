@@ -1,0 +1,8 @@
+image:
+  repository: nginx
+fullnameOverride: "nginx"
+containerPort: 80
+ingress:
+  host: nginx
+autoscaling:
+  enabled: false
