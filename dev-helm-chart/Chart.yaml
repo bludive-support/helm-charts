@@ -1,0 +1,4 @@
+apiVersion: v2
+name: dev-helm-chart
+description: A Helm chart for dev cluster
+version: 0.1.0
